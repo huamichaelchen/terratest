@@ -16,7 +16,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-errors/errors v1.0.2-0.20180813162953-d98b870cc4e0 // indirect
 	github.com/go-sql-driver/mysql v1.4.1
-	github.com/gogo/protobuf v1.2.1 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/btree v1.0.0 // indirect
 	github.com/google/uuid v0.0.0-20161128191214-064e2069ce9c
 	github.com/googleapis/gnostic v0.3.1 // indirect
@@ -39,10 +39,9 @@ require (
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/urfave/cli v1.22.1
-	golang.org/x/crypto v0.0.0-20190820162420-60c769a6c586
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/net v0.0.0-20201021035429-f5854403a974
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20191110163157-d32e6e3b99c4 // indirect
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4 // indirect
 	google.golang.org/api v0.9.1-0.20190821000710-329ecc3c9c34
 	google.golang.org/appengine v1.6.1 // indirect
