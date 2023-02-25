@@ -18,7 +18,7 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/gogo/protobuf v1.2.1 // indirect
 	github.com/google/btree v1.0.0 // indirect
-	github.com/google/uuid v0.0.0-20161128191214-064e2069ce9c
+	github.com/google/uuid v1.0.0
 	github.com/googleapis/gnostic v0.3.1 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/gruntwork-io/gruntwork-cli v0.5.1
@@ -31,7 +31,6 @@ require (
 	github.com/magiconair/properties v1.8.1
 	github.com/mattn/go-zglob v0.0.2-0.20190814121620-e3c945676326 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/oracle/oci-go-sdk v7.1.0+incompatible
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pquerna/otp v1.2.0
@@ -51,6 +50,6 @@ require (
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/api v0.0.0-20181110191121-a33c8200050f
-	k8s.io/apimachinery v0.0.0-20190704094520-6f131bee5e2c
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v0.0.0-20190704095228-386e588352a4
 )
